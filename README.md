@@ -4,7 +4,7 @@
 
 # <a name="python-basics"></a>Python Basics
 
-Introduction to Python - Syntax, working with Shell commands, Files, Text Processing, and more...
+Introduction to Python - Syntax , working with Shell commands, Files, Text Processing, and more...
 
 * Suitable for a one/two day workshop for Python beginners
 * [Python curated resources](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md) for more complete resources list, including tutorials for beginners
